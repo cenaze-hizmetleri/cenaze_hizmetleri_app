@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cenaze_hizmetleri_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# cenaze_hizmetleri_app
+>>>>>>> 16c9b9b4769cdf8ac81e1e361d5f48b2e9bb4f8b
